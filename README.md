@@ -10,7 +10,7 @@ The neural engine extracts Mel-Frequency Cepstral Coefficients (MFCCs) to isolat
 
 | Organic Audio Signature | Synthetic Audio Clone |
 | :---: | :---: |
-| <img src="assets/organic_spectrogram.png" width="400"> | <img src="assets/synthetic_spectrogram.png" width="400"> |
+| <img src="/assets/organic_spectrogram.png" width="400"> | <img src="/assets/synthetic_spectrogram.png" width="400"> |
 | **Classification: Authentic** | **Classification: Deepfake** |
 | *Natural biometric silence gaps detected.* | *High-frequency artifacting and phase anomalies present.* |
 
